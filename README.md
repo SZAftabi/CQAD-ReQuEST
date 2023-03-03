@@ -4,7 +4,7 @@ CQAD-ReQuEST is a new dataset produced via modifying CQADupStack, a public bench
 </p>
 
 ![CQAD-ReQuEST](./CQAD-ReQuEST.jpg?width=600?raw=true)
-<p align="center">ّ<b> Fig 1. </b> CQAD-ReQuEST data formation steps</p>
+<p align="center"><b> Fig 1. </b> CQAD-ReQuEST data formation steps</p>
 
 
 <b> As shown in Fig 1, CQAD-ReQuEST is constructed through six steps:</b><br>
