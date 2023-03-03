@@ -4,9 +4,10 @@ CQAD-ReQuEST is a new dataset produced via modifying CQADupStack, a public bench
 </p>
 
 ![CQAD-ReQuEST](./CQAD-ReQuEST.jpg?width=600?raw=true)
+<p align="center">ّ<b> Fig 1. </b> CQAD-ReQuEST data formation steps</p>
 
 
-<b> CQAD-ReQuEST is constructed through six steps:</b><br>
+<b> As shown in Fig 1, CQAD-ReQuEST is constructed through six steps:</b><br>
 <ul>
   <li align="justify">
     At first, five features are extracted for each question, including ID, body, title, tags, and IDs of duplicate questions. <br>
