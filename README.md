@@ -36,11 +36,9 @@ We also provide a small size of CQAD-ReQuEST, named CQAD-ReQuEST<sub>small</sub>
 This repository contains the data for the following paper:
 </p>
 <p align="justify">
-  <font color="blue">
     <b>&emsp;  ReQuEST: A Small-Scale Multi-Task Model for Community Question-Answering Systems </b>
-  </font>
 </p>
 <p align="justify">
-<i>S. Z. Aftabi, S. M. Seyyedi, M. Maleki and S. Farzi</i><br>
-<b>IEEE Access, vol. 12, pp. 17137-17151, 2024 </b>
+<i> &emsp;   S. Z. Aftabi, S. M. Seyyedi, M. Maleki and S. Farzi</i><br>
+<b> &emsp;  IEEE Access, vol. 12, pp. 17137-17151, 2024 </b>
 </p>
