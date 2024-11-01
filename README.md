@@ -1,4 +1,4 @@
-# CQAD-ReQuEST
+# CQAD-ReQuEST data
 <p align="justify">
 CQAD-ReQuEST is a new dataset produced via modifying CQADupStack, a public benchmark dataset for community question answering (https://github.com/D1Doris/CQADupStack). CQAD-ReQuEST is well-suited for joint learning of <i>recognizing question entailment (RQE)</i>, <i>query-focused question summarization (QFQS)</i>, and <i>tag generation (TG)</i> tasks. In other words, it enables us to optimize all the tasks concurrently rather than successively training them with distinct datasets. 
 </p>
