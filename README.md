@@ -32,13 +32,18 @@ CQAD-ReQuEST is a new dataset produced via modifying CQADupStack, a public bench
 We also provide a small size of CQAD-ReQuEST, named CQAD-ReQuEST<sub>small</sub>, containing a subset of 10000 samples.
 </p>
 <h2> 📌 Citation </h2>
-<p align="justify">
-This repository contains the data for the following paper:
-</p>
-<p align="justify">
-    <b> &emsp; <a href="https://ieeexplore.ieee.org/abstract/document/10413543"> ReQuEST: A Small-Scale Multi-Task Model for Community Question-Answering Systems </a> </b>
-</p>
-<p align="justify">
-<i> &emsp;   S. Z. Aftabi, S. M. Seyyedi, M. Maleki and S. Farzi</i><br>
-<b> &emsp;  IEEE Access, vol. 12, pp. 17137-17151, 2024 </b>
-</p>
+<p>This repository contains the data for the following paper. If you use this work, please cite the 
+<a href="https://ieeexplore.ieee.org/abstract/document/10413543" target="_blank">paper</a> as follows:</p>
+
+<pre>
+@ARTICLE{10413543,
+  author  =  {Aftabi, Seyyede Zahra and Seyyedi, Seyyede Maryam and Maleki, Mohammad and Farzi, Saeed},
+  title   =  {ReQuEST: A Small-Scale Multi-Task Model for Community Question-Answering Systems}, 
+  journal =  {IEEE Access}, 
+  year    =  {2024},
+  volume  =  {12},
+  pages   =  {17137-17151},
+  doi     =  {10.1109/ACCESS.2024.3358287}
+}
+</pre>
+
