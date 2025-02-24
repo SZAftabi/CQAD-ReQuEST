@@ -35,7 +35,7 @@ We also provide a small size of CQAD-ReQuEST, named CQAD-ReQuEST<sub>small</sub>
 <p>This repository contains the data for the following paper. If you use this work, please cite the 
 <a href="https://ieeexplore.ieee.org/abstract/document/10413543" target="_blank">paper</a> as follows:</p>
 
-<pre>
+```bibtex
 @ARTICLE{10413543,
   author  =  {Aftabi, Seyyede Zahra and Seyyedi, Seyyede Maryam and Maleki, Mohammad and Farzi, Saeed},
   title   =  {ReQuEST: A Small-Scale Multi-Task Model for Community Question-Answering Systems}, 
@@ -45,5 +45,4 @@ We also provide a small size of CQAD-ReQuEST, named CQAD-ReQuEST<sub>small</sub>
   pages   =  {17137-17151},
   doi     =  {10.1109/ACCESS.2024.3358287}
 }
-</pre>
 
